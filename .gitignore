@@ -24,3 +24,4 @@ yarn-error.log*
 
 /progress_pics
 /front/node_modules
+test-ledger/
