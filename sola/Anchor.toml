@@ -1,11 +1,11 @@
-[programs.localnet]
-sola = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+[programs.devnet]
+sola = "27LbaFMbP6Cn56aGvnDETZzU1WY8jJjT62TPq3jgWTvw"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/home/wleung/.config/solana/id.json"
 
 [scripts]
